@@ -9,8 +9,17 @@ I am Mid-level Web developer able to build a Web presence from the ground up - f
 I have excellent design & coding skills, as well as an ability to convert requirements into exciting online applications.
 </p>
 </div>
+   
 </div>
+<h3> 👨🏻•💻 About Me </h3>
 
+- 🤔 &nbsp; Exploring new technologies and developing software solutions .
+
+- 🎓 &nbsp; Studying Computer Science At National Universiy Of Laos.
+
+- ☁ &nbsp; Learning about Cloud Tech, Systems Design.
+
+- ✍️ &nbsp; Pursuing Web Development as hobbies/side hustles.
 <div>
   
 <h3> 🛠 &nbsp;Tech Stack</h3>
